@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python main-trainer.py --src_lang en --src_emb /data/embeddings/wiki.en.vec --tgt_lang es --tgt_emb /data/embeddings/wiki.es.vec  --cuda_device 0 --exp_id tune32-van --state 3 --mode 1 --norm_embeddings center --src_pretrain tune32-van/en-es/center/best/seed_430_stage_3_best_X.t7 --tgt_pretrain tune32-van/en-es/center/best/seed_430_stage_3_best_Y.t7

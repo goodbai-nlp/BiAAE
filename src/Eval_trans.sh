@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python3 Eval_trans.py --src_lang en --tgt_lang zh --src_emb /disk/xfbai/mywork/my_vecmap/mapped.en --tgt_emb /disk/xfbai/mywork/my_vecmap/mapped.zh --dico ../data/bilingual_dicts/en-zh.5000-6500.txt
