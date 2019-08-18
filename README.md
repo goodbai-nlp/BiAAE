@@ -5,7 +5,7 @@ This software runs python 3.6 with the following libraries:
 + pytorch 0.3.1
 + Faiss
 ## Get start
-1. Preparing monolingual word embeddings and dictionaris, you can download the wikipedia monolingual word embeddings following [this work](https://github.com/facebookresearch/MUSE).
+1. Preparing monolingual word embeddings and dictionaries, you can download the wikipedia monolingual word embeddings following [this work](https://github.com/facebookresearch/MUSE).
 
 2. Generating and evaluating unsupervised bilingual word embedding with our method (BiAAE).
 ```
