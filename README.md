@@ -1,11 +1,11 @@
 # BiAAE
 Code for our paper "A Bilingual Adversarial Autoencoder for Unsupervised Bilingual Lexicon Induction" in TASLP [[pdf]](https://ieeexplore.ieee.org/document/8754809)
 ## Setup
-This software runs python 3.6 with the following libraries:
-+ pytorch 0.3.1
+This software runs Python 3.6 with the following libraries:
++ Pytorch 0.3.1
 + Faiss
 ## Get start
-1. Preparing monolingual word embeddings and dictionaries, you can download the wikipedia monolingual word embeddings following [this work](https://github.com/facebookresearch/MUSE).
+1. Preparing monolingual word embeddings and dictionaries, you can download the Wikipedia monolingual word embeddings following [this work](https://github.com/facebookresearch/MUSE).
 
 2. Generating and evaluating unsupervised bilingual word embedding with our method (BiAAE).
 ```
@@ -27,5 +27,6 @@ Please cite Learning [A Bilingual Adversarial Autoencoder for Unsupervised Bilin
   pages={1639-1648}, 
   doi={10.1109/TASLP.2019.2925973}, 
   ISSN={2329-9290}, 
-  month={Oct},}
+  month={Oct},
+  }
 ```
