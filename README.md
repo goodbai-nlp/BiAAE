@@ -17,16 +17,22 @@ This software runs Python 3.6 with the following libraries:
 ## References
 Please cite Learning [A Bilingual Adversarial Autoencoder for Unsupervised Bilingual Lexicon Induction](https://ieeexplore.ieee.org/document/8754809) if you found the resources in this repository useful.
 ```
-  @ARTICLE{8754809, 
-  author={X. {Bai} and H. {Cao} and K. {Chen} and T. {Zhao}}, 
-  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
-  title={A Bilingual Adversarial Autoencoder for Unsupervised Bilingual Lexicon Induction}, 
-  year={2019}, 
-  volume={27}, 
-  number={10}, 
-  pages={1639-1648}, 
-  doi={10.1109/TASLP.2019.2925973}, 
-  ISSN={2329-9290}, 
-  month={Oct},
-  }
+  @article{BaiCCZ19,
+  author    = {Xuefeng Bai and
+               Hailong Cao and
+               Kehai Chen and
+               Tiejun Zhao},
+  title     = {A Bilingual Adversarial Autoencoder for Unsupervised Bilingual Lexicon
+               Induction},
+  journal   = {IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+  volume    = {27},
+  number    = {10},
+  pages     = {1639--1648},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/TASLP.2019.2925973},
+  doi       = {10.1109/TASLP.2019.2925973},
+  timestamp = {Fri, 12 Nov 2021 14:39:59 +0100},
+  biburl    = {https://dblp.org/rec/journals/taslp/BaiCCZ19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 ```
